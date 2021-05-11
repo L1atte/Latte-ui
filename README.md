@@ -6,7 +6,7 @@
     vue created demo
 
 - 安装组件库
-    npm add latte-ui
+    npm add latte-latte-ui
 
 - 全局导入
     import latteui form 'latte-ui'
